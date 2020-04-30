@@ -7,7 +7,7 @@
 
 	Our main goal is to predict whether income exceeds $50K/yr based on census data.
 	
-### Partner
+### Partners
 
 	Buse Şenvardar
 	İsmail Aşık
